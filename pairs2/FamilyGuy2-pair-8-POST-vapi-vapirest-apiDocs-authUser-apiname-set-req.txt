@@ -1,0 +1,10 @@
+GROUP-NAME:/vapi/vapirest/apiDocs/{authUser}/{apiname}/set
+PAIR-NAME:pair-8 POST /vapi/vapirest/apiDocs/{authUser}/{apiname}/set
+POST /vapi/vapirest/apiDocs/{authUser}/{apiname}/set 
+X-VAPI-AuthAuthority: GitHub
+X-VAPI-AccessToken: 612b948c802308358ebb9f7303ed294434207ef8
+Content-Type: application/json
+
+{
+  "docText": "My new documentation",
+}
