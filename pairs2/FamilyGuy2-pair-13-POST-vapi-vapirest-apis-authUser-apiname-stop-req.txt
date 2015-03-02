@@ -1,0 +1,6 @@
+GROUP-NAME:/vapi/vapirest/apis/{authUser}/{apiname}/stop
+PAIR-NAME:pair-13 POST /vapi/vapirest/apis/{authUser}/{apiname}/stop
+POST /vapi/vapirest/apis/{authUser}/{apiname}/stop 
+X-VAPI-AuthAuthority: GitHub
+X-VAPI-AccessToken: 612b948c802308358ebb9f7303ed294434207ef8
+
