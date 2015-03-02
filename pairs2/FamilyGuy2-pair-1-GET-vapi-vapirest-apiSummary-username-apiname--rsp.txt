@@ -1,0 +1,17 @@
+{
+  "message": "success",
+  "returnCode": 0,
+  "success": true,
+  "apisummaryInfo": {
+    "id": "49341ad1-5b6a-11e4-905f-95dda02f15a0",
+    "name": "{apiname}",
+    "description": "ENC:412073686f7274206465736372697074696f6e",
+    "url": "http://advapi.ca.com/vapi/api/{username}/{apiname}",
+    "modified": "2014-10-24 06:41:32",
+    "protocol": "HTTP;REST",
+    "status": "running",
+    "created": "2014-10-24 06:41:18",
+    "servicename": "AutoGenService-562195CB5B6A11E4BA55005056881D2E",
+    "apiKey": "49341ad1-5b6a-11e4-905f-95dda02f15a0"
+  }
+}
