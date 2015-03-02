@@ -1,0 +1,22 @@
+{
+  "message": "success",
+  "returnCode": 0,
+  "success": true,
+  "apigridInfo": [
+    {
+      "id": "25cf55c0-380e-11e4-ad53-ed9c16547483",
+      "creator": "vapihealthcheck",
+      "avatar": "https://avatars.githubusercontent.com/u/8708025?v=2",
+      "name": "check",
+      "status": null,
+      "protocol": null,
+      "modified": null,
+      "created": "2014-09-25 20:00:00",
+      "uri": "http://advapi.ca.com/vapi/api/vapihealthcheck/check",
+      "description": "This is the Virtual API Cloud system health check API. We use it to check that our service is up and running and you can too!",
+      "apikey": null,
+      "serviceName": null,
+      "averageRating": null
+    }
+  ]
+}
