@@ -1,0 +1,23 @@
+{
+  "message": "success",
+  "returnCode": 0,
+  "success": true,
+  "methods": [
+    {
+      "name": "Default Group",
+      "pairs": [
+        {
+          "pairName": "pair-0",
+          "name": "Default Group",
+          "id": "49341ad2-5b6a-11e4-905f-95dda02f15a0",
+          "request": "POST /rest/my-example-resource/{THING}\nContent-Type: application/json;charset=UTF-8\n\n{ \"my-example-item\": 12520}",
+          "response": "{ \"my-example-response-{THING}\": \"12520\" }",
+          "processedRequest": null,
+          "processedResponse": null,
+          "type": 1,
+          "type_name": "REST"
+        }
+      ]
+    }
+  ]       
+}
