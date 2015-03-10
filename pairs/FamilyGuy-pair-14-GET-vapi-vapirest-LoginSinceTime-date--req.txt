@@ -1,6 +1,0 @@
-GROUP-NAME:/vapi/vapirest/LoginSinceTime/{date}
-PAIR-NAME:pair-14 GET /vapi/vapirest/LoginSinceTime/{date}
-GET /vapi/vapirest/LoginSinceTime/{date} 
-X-VAPI-AuthAuthority: GitHub
-X-VAPI-AccessToken: 612b948c802308358ebb9f7303ed294434207ef8
-

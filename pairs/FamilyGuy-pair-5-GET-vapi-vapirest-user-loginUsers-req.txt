@@ -1,6 +1,0 @@
-GROUP-NAME:/vapi/vapirest/user/loginUsers
-PAIR-NAME:pair-5 GET /vapi/vapirest/user/loginUsers
-GET /vapi/vapirest/user/loginUsers?period=10 
-X-VAPI-AuthAuthority: GitHub
-X-VAPI-AccessToken: 612b948c802308358ebb9f7303ed294434207ef8
-

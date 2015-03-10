@@ -1,5 +1,0 @@
-{
-  "message": "",
-  "returnCode": 1,
-  "success": true
-}

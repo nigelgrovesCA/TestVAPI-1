@@ -1,4 +1,0 @@
-GROUP-NAME:Default Group
-PAIR-NAME:Pair 20
-GET /path/{resource}
-

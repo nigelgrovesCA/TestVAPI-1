@@ -1,6 +1,0 @@
-{
-  "message": "",
-  "returnCode": 0,
-  "success": true,
-  "value": 3
-}

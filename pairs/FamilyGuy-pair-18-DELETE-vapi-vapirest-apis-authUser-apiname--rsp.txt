@@ -1,5 +1,0 @@
-{
-  "message": "API {apiname} deleted from user {authUser}",
-  "returnCode": 1,
-  "success": true
-}

@@ -1,4 +1,0 @@
-GROUP-NAME:/vapi/vapirest/publicApis
-PAIR-NAME:pair-12 GET /vapi/vapirest/publicApis
-GET /vapi/vapirest/publicApis 
-
