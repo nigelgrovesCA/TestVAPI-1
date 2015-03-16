@@ -1,0 +1,10 @@
+200
+myfirstheader:hello
+mysecondheader:world
+
+{
+   "first-name": "{{=[:First Name:]}}",
+   "last-name": "{{=[:Last Name:]}}",
+   "city": "{{=[:City:]}}",
+   "thing": "{THING}"
+}
