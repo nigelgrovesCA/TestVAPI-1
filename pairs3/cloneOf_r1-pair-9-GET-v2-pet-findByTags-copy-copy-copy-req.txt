@@ -1,0 +1,4 @@
+GROUP-NAME:/v2/pet/findByTags
+PAIR-NAME:pair-9 GET /v2/pet/findByTags-copy-copy-copy
+GET /v2/pet/findByTags
+
