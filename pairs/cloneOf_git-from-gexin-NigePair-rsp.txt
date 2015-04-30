@@ -1,0 +1,10 @@
+200
+responseheader:response
+anotheone:helloagain2
+
+{
+   "first-name": "{{=[:First Name:]}}",
+   "last-name": "{{=[:Last Name:]}}",
+   "city": "{{=[:City:]}}",
+   "thing": "£100"
+}
