@@ -1,0 +1,27 @@
+GROUP-NAME:/vapi/vapirest/apiRRPairs/{authUser}/{apiname}/set
+PAIR-NAME:pair-10 POST /vapi/vapirest/apiRRPairs/{authUser}/{apiname}/set
+POST /vapi/vapirest/apiRRPairs/{authUser}/{apiname}/set 
+X-VAPI-AuthAuthority: GitHub
+X-VAPI-AccessToken: 612b948c802308358ebb9f7303ed294434207ef8
+Content-Type: application/json
+
+{
+  "methods": [
+    {
+      "name": "Default Group",
+      "pairs": [
+        {
+          "pairName":"pair-0",
+          "name":"Default Group",
+          "id":"4da1e522-5def-11e4-948c-95dda02f15a0",
+          "request":"GET /something/id-16410\n",
+          "response":"{\"result\": 16410}",
+          "processedRequest":null,
+          "processedResponse":null,
+          "type": 1,
+          "type_name": "REST"
+        }
+      ]
+    }
+  ]
+}
