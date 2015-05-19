@@ -1,0 +1,25 @@
+{
+  "message": "success",
+  "returnCode": 0,
+  "success": true,
+  "apigridInfo": [
+    {
+      "id": "49341ad1-5b6a-11e4-905f-95dda02f15a0",
+      "creator": "{username}",
+      "avatar": "https://avatars.githubusercontent.com/u/7148237?v=2",
+      "name": "Api1",
+      "status": "running",
+      "protocol": "HTTP;REST",
+      "modified": "2014-10-24 06:41:32",
+      "created": "2014-10-24 06:41:18",
+      "uri": "http://advapi.ca.com/vapi/api/dilbert/Api1",
+      "description": "",
+      "apikey": "49341ad1-5b6a-11e4-905f-95dda02f15a0",
+      "serviceName": "AutoGenService-562195CB5B6A11E4BA55005056881D2E",
+      "averageRating": {
+        "rating": 0,
+        "listRatings": [ ]
+      }
+    }
+  ]
+}
