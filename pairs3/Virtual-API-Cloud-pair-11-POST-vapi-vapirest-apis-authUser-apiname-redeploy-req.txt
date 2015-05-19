@@ -1,0 +1,6 @@
+GROUP-NAME:/vapi/vapirest/apis/{authUser}/{apiname}/redeploy
+PAIR-NAME:pair-11 POST /vapi/vapirest/apis/{authUser}/{apiname}/redeploy
+POST /vapi/vapirest/apis/{authUser}/{apiname}/redeploy 
+X-VAPI-AuthAuthority: GitHub
+X-VAPI-AccessToken: 612b948c802308358ebb9f7303ed294434207ef8
+
