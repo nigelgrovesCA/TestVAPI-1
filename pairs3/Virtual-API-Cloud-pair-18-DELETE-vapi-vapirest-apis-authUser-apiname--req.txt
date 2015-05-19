@@ -1,0 +1,6 @@
+GROUP-NAME:/vapi/vapirest/apis/{authUser}/{apiname}
+PAIR-NAME:pair-18 DELETE /vapi/vapirest/apis/{authUser}/{apiname}
+DELETE /vapi/vapirest/apis/{authUser}/{apiname} 
+X-VAPI-AuthAuthority: GitHub
+X-VAPI-AccessToken: 612b948c802308358ebb9f7303ed294434207ef8
+
