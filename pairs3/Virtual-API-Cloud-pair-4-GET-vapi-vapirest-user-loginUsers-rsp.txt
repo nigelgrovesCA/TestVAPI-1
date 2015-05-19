@@ -1,0 +1,34 @@
+{
+  "message": "Get Last Logged Users List Success for period of days: 10",
+  "returnCode": 0,
+  "success": true,
+  "lastLoggedUsers": [
+    {
+      "uid": "4ee941f0-5dde-11e4-948c-95dda02f15a0",
+      "name": null,
+      "id": "dilbert",
+      "source": "github",
+      "avatar": "https://avatars.githubusercontent.com/u/7148237?v=2",
+      "apis": {
+        "4da1e521-5def-11e4-948c-95dda02f15a0": {
+          "id": "4da1e521-5def-11e4-948c-95dda02f15a0",
+          "userId": "4ee941f0-5dde-11e4-948c-95dda02f15a0",
+          "name": "Api1",
+          "description": "",
+          "metrics": {},
+          "apikey": "4da1e521-5def-11e4-948c-95dda02f15a0",
+          "uri": "http://advapi.ca.com/vapi/api/dilbert/Api1",
+          "status": null,
+          "protocol": "HTTP;REST",
+          "modified": "2014-10-27 12:27:59",
+          "created": "2014-10-27 11:38:30",
+          "documentationText": null,
+          "public":"true"
+        }
+      },
+      "creationDate": 1414417011583,
+      "lastLoginDate": 1414428951953,
+      "loginData": null
+    }
+  ]
+}              
