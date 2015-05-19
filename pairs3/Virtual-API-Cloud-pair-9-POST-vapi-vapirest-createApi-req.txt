@@ -1,0 +1,33 @@
+GROUP-NAME:/vapi/vapirest/createApi
+PAIR-NAME:pair-9 POST /vapi/vapirest/createApi
+POST /vapi/vapirest/createApi 
+X-VAPI-AuthAuthority: GitHub
+X-VAPI-AccessToken: 612b948c802308358ebb9f7303ed294434207ef8
+Content-Type: application/json
+
+{
+  "api":
+  {
+    "id": "",
+    "name": "Api1",
+    "description": "",
+    "type": "1",
+    "type_name": "REST",
+    "methods": [
+      {
+        "name": "Default Group",
+        "pairs": [
+          {
+            "name": "Default Group",
+            "pairName": "pair-0",
+            "request":"GET /something/id-18040\n",
+            "response":"{\"result\": 18040}",
+            "type": 1,
+            "type_name": "REST"
+          }
+        ]
+      }
+    ]
+  },
+  "user": "dilbert"
+}
