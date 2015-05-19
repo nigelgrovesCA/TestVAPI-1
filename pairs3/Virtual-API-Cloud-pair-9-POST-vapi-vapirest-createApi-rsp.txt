@@ -1,0 +1,33 @@
+{
+  "message": "success",
+  "returnCode": 0,
+  "success": true,
+  "api": {
+    "id": "ff4b2da1-5b91-11e4-989e-95dda02f15a0",
+    "name": "Api1",
+    "description": "",
+    "redeploy": false,
+    "uri": "http://advapi.ca.com/vapi/api/dilbert/Api1",
+    "type": "1",
+    "type_name": "REST",
+    "methods": [
+      {
+        "name": "Default Group",
+        "pairs": [
+          {
+            "pairName": "pair-0",
+            "name": "Default Group",
+            "id": null,
+            "request":"GET /something/id-18040\n",
+            "response":"{\"result\": 18040}",
+            "processedRequest":"GET /something/id-18040\n",
+            "processedResponse":null,
+            "type": 1,
+            "type_name": "REST"
+          }
+        ]
+      }
+    ],
+    "files": null
+  }
+}
