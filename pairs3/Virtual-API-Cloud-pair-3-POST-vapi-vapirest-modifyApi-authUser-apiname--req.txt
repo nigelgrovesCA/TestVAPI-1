@@ -1,0 +1,12 @@
+GROUP-NAME:/vapi/vapirest/modifyApi/{authUser}/{apiname}
+PAIR-NAME:pair-3 POST /vapi/vapirest/modifyApi/{authUser}/{apiname}
+POST /vapi/vapirest/modifyApi/{authUser}/{apiname} 
+X-VAPI-AuthAuthority: GitHub
+X-VAPI-AccessToken: 612b948c802308358ebb9f7303ed294434207ef8
+Content-Type: application/json
+
+{
+  "name": "New-Api-Name",
+  "description": "New description",
+  "redeploy": false
+}
