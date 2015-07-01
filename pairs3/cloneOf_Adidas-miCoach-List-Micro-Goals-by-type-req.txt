@@ -1,0 +1,3 @@
+GROUP-NAME:ContentMicroGoalPlans
+PAIR-NAME:List Micro Goals by type
+GET /content/microgoalplans
