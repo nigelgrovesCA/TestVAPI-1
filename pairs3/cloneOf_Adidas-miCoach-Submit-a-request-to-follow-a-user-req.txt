@@ -1,0 +1,3 @@
+GROUP-NAME:Following
+PAIR-NAME:Submit a request to follow a user
+POST /Users/{userId}/following/{followeeId}
